@@ -12,10 +12,11 @@
 
 // Prendo l'elemento DOM
 
-const targetElement = document.getElementById('targent');
+const targetElement = document.getElementById('target');
 console.log(targetElement);
 
 
 // chiedo il nome all'utente
 
 const unerName = parseInt('Come ti chiami?');
+console.log()
