@@ -14,3 +14,8 @@
 
 const targetElement = document.getElementById('targent');
 console.log(targetElement);
+
+
+// chiedo il nome all'utente
+
+const unerName = parseInt('Come ti chiami?');
